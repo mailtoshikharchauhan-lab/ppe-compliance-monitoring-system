@@ -4,7 +4,7 @@
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF.svg)](https://github.com/ultralytics/ultralytics)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18.0-61DAFB.svg)](https://reactjs.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 > **Production-grade AI-powered safety compliance monitoring system for construction sites and industrial facilities**
 
@@ -613,11 +613,7 @@ docker run -p 8000:8000 -p 3000:3000 ppe-monitor
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 🤝 Contributing
 
@@ -637,7 +633,7 @@ Contributions are welcome! Please follow these steps:
 
 - 🔗 **GitHub**: [github.com/mailtoshikharchauhan-lab](https://github.com/mailtoshikharchauhan-lab)
 - 💼 **LinkedIn**: [linkedin.com/in/shikharchauhanurl](https://www.linkedin.com/in/shikharchauhanurl/)
-- 📧 **Email**: shikhar.chauhan@example.com
+- 📧 **Email**: mailtoshikharchauhan@gmail.com
 
 ---
 

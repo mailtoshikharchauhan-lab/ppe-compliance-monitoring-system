@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project Specific
+backend/database.db
+backend/screenshots/*.jpg
+backend/screenshots/*.png
+backend/uploads/*.mp4
+backend/uploads/*.avi
+!backend/uploads/.gitkeep
+
+# Model files (large)
+model/*.pt
+!model/.gitkeep
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node modules (if frontend exists)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
